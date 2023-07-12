@@ -1,0 +1,10 @@
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: calc(100% / 5 - 30px) ;
+  margin: 30px 15px;
+  text-align: center;
+}
